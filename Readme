@@ -1,5 +1,5 @@
 # speaker-cluster
-This code is a simple BIC clusterer for speaker diarisation. Clustering based on Euclidean distances and Arithmetic Harmonic Sphericity.
+This code is a simple BIC clusterer for speaker diarisation. Clustering based on Euclidean distances and Arithmetic Harmonic Sphericity is also included. The md-eval.pl script performs scoring and the htkmfc.py script reads in HTK features.
 
 
 
